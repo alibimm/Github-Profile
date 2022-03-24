@@ -1,16 +1,20 @@
-### Hi there, my name is Alibi
+# Hi, my name is Alibi👋
 
-<!--
-**AlibiMelis/AlibiMelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my personal project
+- 🌱 I’m currently learning React.js and Next.js
+- ⚽️ My goal for 2022: find a Web Developer job and build my personal project
+- ⚡ Fun fact: I love playing chess♟ and practice almost everyday
+- 💬 Ask me about anything! I am happy to chat
 
-Here are some ideas to get you started:
+### Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![website](./img/twitter-light.svg)](https://twitter.com/alibbism#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/alibimelis#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/alibimelis#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+
+[website]: https://github.com/AlibiMelis
