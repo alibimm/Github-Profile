@@ -18,3 +18,5 @@
 [![website](./assets/instagram-dark.svg)](https://instagram.com/alibbism#gh-dark-mode-only)
 
 [website]: https://github.com/AlibiMelis
+
+[![Alibi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlibiMelis)](https://github.com/AlibiMelis)
