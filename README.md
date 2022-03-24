@@ -8,13 +8,13 @@
 
 ### Connect with me
 
-[![website](./img/twitter-light.svg)](https://twitter.com/alibbism#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./assets/twitter-light.svg)](https://twitter.com/alibbism#gh-light-mode-only)
+[![website](./assets/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/alibimelis#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/alibimelis#gh-dark-mode-only)
+[![website](./assets/linkedin-light.svg)](https://www.linkedin.com/in/alibimelis#gh-light-mode-only)
+[![website](./assets/linkedin-dark.svg)](https://www.linkedin.com/in/alibimelis#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./assets/instagram-light.svg)](https://instagram.com/alibbismr#gh-light-mode-only)
+[![website](./assets/instagram-dark.svg)](https://instagram.com/alibbism#gh-dark-mode-only)
 
 [website]: https://github.com/AlibiMelis
