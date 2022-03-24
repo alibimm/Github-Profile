@@ -10,7 +10,7 @@
 ### Connect with me
 
 [![website](./assets/twitter-light.svg)](https://twitter.com/alibbism#gh-light-mode-only)
-[![website](./assets/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./assets/twitter-dark.svg)](https://twitter.com/alibbism#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./assets/linkedin-light.svg)](https://www.linkedin.com/in/alibimelis#gh-light-mode-only)
 [![website](./assets/linkedin-dark.svg)](https://www.linkedin.com/in/alibimelis#gh-dark-mode-only)
