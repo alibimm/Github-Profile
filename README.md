@@ -1,7 +1,7 @@
 # Hi, my name is Alibi👋
 
 - 🔭 I’m currently working on my personal project
-- 🌱 I’m currently learning React.js and Next.js
+- 🌱 I’m learning React.js and Next.js
 - ⚽️ My goal for 2022: find a Web Developer job and build my personal project
 - ⚡ Fun fact: I love playing chess♟ and practice almost everyday
 - 💬 Ask me about anything! I am happy to chat
