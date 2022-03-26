@@ -42,6 +42,5 @@
 
 ---
 # My Stats
-[![Alibi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlibiMelis&count_private=true&show_icons=true&theme=algolia&hide_border=true)](https://github.com/AlibiMelis)
-<br />
-[![Alibi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlibiMelis&exclude_repo=iOS-Learning&theme=algolia&hide_border=true)](https://github.com/AlibiMelis)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlibiMelis&count_private=true&show_icons=true&theme=algolia&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlibiMelis&exclude_repo=iOS-Learning&theme=algolia&hide_border=true&layout=compact" /> |
+| ------------- | ------------- |
