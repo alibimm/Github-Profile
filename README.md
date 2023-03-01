@@ -1,8 +1,8 @@
 # Hi, my name is Alibi👋
 
 - 🔭 I’m currently working on my personal project
-- 🌱 I’m learning React.js and Flutter
-- ⚽️ My goal for 2022: learn about backend development and build my personal project
+- 🌱 I’m learning Feathers.js and Flutter
+- ⚽️ My goal for 2023: learn about backend development and build my personal project
 - ⚡ Fun fact: I love playing chess♟ and practice almost everyday
 - 💬 Ask me about anything! I am happy to chat
 - 📬 How to reach me: [melis.alibi2000@gmail.com](mailto:melis.alibi2000@gmail.com)
